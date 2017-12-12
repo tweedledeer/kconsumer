@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: build/libs/KafkaConsumerExample-1.0-SNAPSHOT.jar
+Main-Class: KafkaConsumerExample
+
